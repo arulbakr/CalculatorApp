@@ -1,0 +1,12 @@
+D:\DotNet_Projects\Media.Calc.ConsoleApp\Media.Calc.WinFormApp\bin\Release\Media.Calc.WinFormApp.exe.config
+D:\DotNet_Projects\Media.Calc.ConsoleApp\Media.Calc.WinFormApp\bin\Release\Media.Calc.WinFormApp.exe
+D:\DotNet_Projects\Media.Calc.ConsoleApp\Media.Calc.WinFormApp\bin\Release\Media.Calc.WinFormApp.pdb
+D:\DotNet_Projects\Media.Calc.ConsoleApp\Media.Calc.WinFormApp\bin\Release\Media.Calc.Core.dll
+D:\DotNet_Projects\Media.Calc.ConsoleApp\Media.Calc.WinFormApp\bin\Release\Media.Calc.Core.pdb
+D:\DotNet_Projects\Media.Calc.ConsoleApp\Media.Calc.WinFormApp\obj\Release\Media.Calc.WinFormApp.csprojResolveAssemblyReference.cache
+D:\DotNet_Projects\Media.Calc.ConsoleApp\Media.Calc.WinFormApp\obj\Release\Media.Calc.WinFormApp.Form1.resources
+D:\DotNet_Projects\Media.Calc.ConsoleApp\Media.Calc.WinFormApp\obj\Release\Media.Calc.WinFormApp.GaussForm.resources
+D:\DotNet_Projects\Media.Calc.ConsoleApp\Media.Calc.WinFormApp\obj\Release\Media.Calc.WinFormApp.Properties.Resources.resources
+D:\DotNet_Projects\Media.Calc.ConsoleApp\Media.Calc.WinFormApp\obj\Release\Media.Calc.WinFormApp.csproj.GenerateResource.Cache
+D:\DotNet_Projects\Media.Calc.ConsoleApp\Media.Calc.WinFormApp\obj\Release\Media.Calc.WinFormApp.exe
+D:\DotNet_Projects\Media.Calc.ConsoleApp\Media.Calc.WinFormApp\obj\Release\Media.Calc.WinFormApp.pdb

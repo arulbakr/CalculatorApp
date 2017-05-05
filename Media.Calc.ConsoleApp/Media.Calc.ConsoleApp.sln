@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Media.Calc.Core", "Media.Calc.Core\Media.Calc.Core.csproj", "{2AECF144-2771-438E-86CF-7A42D4ED8D53}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Media.Calc.WinFormApp", "Media.Calc.WinFormApp\Media.Calc.WinFormApp.csproj", "{675B2E3F-99B9-4201-908B-760CAD64AC1B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Media.Calc.Test", "Media.Calc.Test\Media.Calc.Test.csproj", "{A69455A2-B73F-4353-85E1-812FEBBC9C42}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2AECF144-2771-438E-86CF-7A42D4ED8D53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AECF144-2771-438E-86CF-7A42D4ED8D53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AECF144-2771-438E-86CF-7A42D4ED8D53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AECF144-2771-438E-86CF-7A42D4ED8D53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{675B2E3F-99B9-4201-908B-760CAD64AC1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{675B2E3F-99B9-4201-908B-760CAD64AC1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{675B2E3F-99B9-4201-908B-760CAD64AC1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{675B2E3F-99B9-4201-908B-760CAD64AC1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A69455A2-B73F-4353-85E1-812FEBBC9C42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A69455A2-B73F-4353-85E1-812FEBBC9C42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A69455A2-B73F-4353-85E1-812FEBBC9C42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A69455A2-B73F-4353-85E1-812FEBBC9C42}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,5 @@
+D:\DotNet_Projects\Media.Calc.ConsoleApp\Media.Calc.Core\bin\Debug\Media.Calc.Core.dll
+D:\DotNet_Projects\Media.Calc.ConsoleApp\Media.Calc.Core\bin\Debug\Media.Calc.Core.pdb
+D:\DotNet_Projects\Media.Calc.ConsoleApp\Media.Calc.Core\obj\Debug\Media.Calc.Core.dll
+D:\DotNet_Projects\Media.Calc.ConsoleApp\Media.Calc.Core\obj\Debug\Media.Calc.Core.pdb
+D:\DotNet_Projects\Media.Calc.ConsoleApp\Media.Calc.Core\obj\Debug\Media.Calc.Core.csprojResolveAssemblyReference.cache

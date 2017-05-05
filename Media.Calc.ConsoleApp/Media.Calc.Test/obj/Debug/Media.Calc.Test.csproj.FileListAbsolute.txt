@@ -1,0 +1,9 @@
+D:\DotNet_Projects\Media.Calc.ConsoleApp\Media.Calc.Test\bin\Debug\Media.Calc.Test.dll
+D:\DotNet_Projects\Media.Calc.ConsoleApp\Media.Calc.Test\bin\Debug\Media.Calc.Test.pdb
+D:\DotNet_Projects\Media.Calc.ConsoleApp\Media.Calc.Test\bin\Debug\Media.Calc.Core.dll
+D:\DotNet_Projects\Media.Calc.ConsoleApp\Media.Calc.Test\bin\Debug\nunit.framework.dll
+D:\DotNet_Projects\Media.Calc.ConsoleApp\Media.Calc.Test\bin\Debug\Media.Calc.Core.pdb
+D:\DotNet_Projects\Media.Calc.ConsoleApp\Media.Calc.Test\bin\Debug\nunit.framework.xml
+D:\DotNet_Projects\Media.Calc.ConsoleApp\Media.Calc.Test\obj\Debug\Media.Calc.Test.csprojResolveAssemblyReference.cache
+D:\DotNet_Projects\Media.Calc.ConsoleApp\Media.Calc.Test\obj\Debug\Media.Calc.Test.dll
+D:\DotNet_Projects\Media.Calc.ConsoleApp\Media.Calc.Test\obj\Debug\Media.Calc.Test.pdb
