@@ -290,6 +290,7 @@ namespace Media.Calc.WinFormApp
             _bracketNumbers.Clear();
             _result.Answer = 0;
             _invoker.RemovesAllOperations();
+            expressionLbl.Text = String.Empty;
         }
 
         private void lBraceButton_Click(object sender, EventArgs e)
