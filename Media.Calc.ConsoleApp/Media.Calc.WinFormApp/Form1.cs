@@ -218,12 +218,15 @@ namespace Media.Calc.WinFormApp
 
         private void powButton_Click(object sender, EventArgs e)
         {
-            expressionLbl.Text += displayTxt.Text + Constants.Power;
-            double enteredValue = Convert.ToDouble(displayTxt.Text);
-            var number = new Number {EnteredNumber = enteredValue, IsCalculated = false};
-            _numbers.Add(number);
-            _invoker.IncludeOperations(new PowerCommand(_result, _numbers));
-            displayTxt.Clear();
+            if (!String.IsNullOrEmpty(displayTxt.Text))
+            {
+                expressionLbl.Text += displayTxt.Text + Constants.Power;
+                double enteredValue = Convert.ToDouble(displayTxt.Text);
+                var number = new Number { EnteredNumber = enteredValue, IsCalculated = false };
+                _numbers.Add(number);
+                _invoker.IncludeOperations(new PowerCommand(_result, _numbers));
+                displayTxt.Clear();
+            }
         }
 
         private void gaussButton_Click(object sender, EventArgs e)

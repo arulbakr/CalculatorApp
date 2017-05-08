@@ -57,6 +57,7 @@
             // 
             // displayTxt
             // 
+            this.displayTxt.Enabled = false;
             this.displayTxt.Location = new System.Drawing.Point(12, 12);
             this.displayTxt.Multiline = true;
             this.displayTxt.Name = "displayTxt";
