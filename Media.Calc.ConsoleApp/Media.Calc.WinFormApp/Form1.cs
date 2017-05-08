@@ -235,8 +235,8 @@ namespace Media.Calc.WinFormApp
             {
                 if (gaussForm.ShowDialog() == DialogResult.OK)
                 {
-                    displayTxt.Text = Constants.Gauss + Constants.LeftBrace + gaussForm.A + ","
-                                        + gaussForm.B + "," + gaussForm.C + "," + gaussForm.X + Constants.RightBrace;
+                    displayTxt.Text = Constants.Gauss + Constants.LeftBrace + gaussForm.A + Constants.Comma
+                                        + gaussForm.B + Constants.Comma + gaussForm.C + Constants.Comma + gaussForm.X + Constants.RightBrace;
                     expressionLbl.Text += displayTxt.Text;
                     _invoker.IncludeOperations(new GaussCommand(_result, Convert.ToDouble(gaussForm.A)
                         , Convert.ToDouble(gaussForm.B), Convert.ToDouble(gaussForm.C), Convert.ToDouble(gaussForm.X), _numbers, _bracketNumbers
